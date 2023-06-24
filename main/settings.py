@@ -6,6 +6,6 @@ TILESIZE = 64
 WORLD_MAP = [
 ['tile', 'tile', 'tile', 'tile', 'tile', 'tile', 'tile', 'tile'],
 ['tile', ' ', 'player', ' ', ' ', ' ', ' ', 'tile'],
-['tile', ' ', ' ', ' ', ' ', ' ', ' ', 'tile'],
+['tile', ' ', ' ', ' ', ' ', ' ', ' ', ' '],
 ['tile', 'tile', 'tile', 'tile', 'tile', 'tile', 'tile', 'tile'],
 ]
